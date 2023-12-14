@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2585d0d-3660-4183-9364-2476067a941f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/src/Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/test/test5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/src/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/src/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test2.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test3.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test3.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test4.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test4.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test5.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/test/test5.out" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DynamicProgramming" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,11 +54,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DynamicProgramming" />
       <recent name="$PROJECT_DIR$/fibonacci" />
     </key>
   </component>
@@ -69,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702545219143</updated>
-      <workItem from="1702545220642" duration="2384000" />
+      <workItem from="1702545220642" duration="3318000" />
     </task>
     <servers />
   </component>
