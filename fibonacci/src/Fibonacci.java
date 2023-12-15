@@ -22,7 +22,7 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        File folder = new File("DynamicProgramming/fibonacci/test");
+        File folder = new File("../test");
         File[] listOfFiles = folder.listFiles();
         Arrays.sort(listOfFiles);
         for (File file : listOfFiles) {

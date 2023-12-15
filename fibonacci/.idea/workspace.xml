@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2585d0d-3660-4183-9364-2476067a941f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DynamicProgramming" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DynamicProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/fibonacci/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/fibonacci/src/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fibonacci/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fibonacci/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fibonacci/.idea/vcs.xml" beforeDir="false" />
@@ -51,21 +53,40 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "/Users/ridwansiddique/Desktop/UsaskAcademic/Fall2023/CMPT360/DynamicProgramming/DynamicProgramming/tribonacci/test",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DynamicProgramming/tribonacci/test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DynamicProgramming" />
       <recent name="$PROJECT_DIR$/fibonacci" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MinCoinSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinCoinSum" />
+      <module name="MinCoinSum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinCoinSum" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702545219143</updated>
-      <workItem from="1702545220642" duration="3318000" />
+      <workItem from="1702545220642" duration="12725000" />
     </task>
     <servers />
   </component>
@@ -95,5 +116,69 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>5</line>
+          <properties class="MinCoinSum" method="minCoin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>8</line>
+          <properties class="MinCoinSum" method="minCoin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/src/MinCoinSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

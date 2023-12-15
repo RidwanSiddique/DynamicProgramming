@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/MinCoinSum/MinCoinSum.iml" filepath="$PROJECT_DIR$/DynamicProgramming/MinCoinSum/MinCoinSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/sumPossible/sumPossible.iml" filepath="$PROJECT_DIR$/DynamicProgramming/sumPossible/sumPossible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/tribonacci/tribonacci.iml" filepath="$PROJECT_DIR$/DynamicProgramming/tribonacci/tribonacci.iml" />
     </modules>
   </component>
 </project>
