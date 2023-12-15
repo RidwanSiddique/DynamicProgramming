@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DynamicProgramming.iml" filepath="$PROJECT_DIR$/.idea/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinCoinSum/MinCoinSum.iml" filepath="$PROJECT_DIR$/MinCoinSum/MinCoinSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumPossible/sumPossible.iml" filepath="$PROJECT_DIR$/sumPossible/sumPossible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tribonacci/tribonacci.iml" filepath="$PROJECT_DIR$/tribonacci/tribonacci.iml" />
+    </modules>
+  </component>
+</project>
